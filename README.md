@@ -20,8 +20,8 @@ Abaixo estão os módulos que compõem minha formação. Os itens marcados são 
 - [x] **Banco de Dados II:** 
 - [x] **Desenvolvimento Web:**
 - [x] **Programação Orientada a Objetos:** 
-- [ ] **Análise e Modelagem**
-- [ ] **Recursos Humanos**
+- [x] **Análise e Modelagem**
+- [x] **Recursos Humanos**
 
 ### 🚀 3º Semestre (Finalização & Especialização) - *Cursando atualmente*
 - [ ] **Design Visual:** 
