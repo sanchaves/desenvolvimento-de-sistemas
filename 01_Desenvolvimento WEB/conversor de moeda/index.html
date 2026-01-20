@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Conversor de Moeda</title>
+    <link rel="stylesheet" href="css/estilo.css">
+</head>
+
+<body>
+    <h2>Conversor de Moeda</h2>
+
+    <!-- Campo de entrada para a cotação do dólar -->
+    <label>Cotação do Dólar:</label>
+    
+    <input type="number" id="cotacao" step="0.01" placeholder="Digite a cotação" required>
+    <span class="required-text">*</span>
+    <br>
+
+    <!-- Campo de entrada para o valor em reais -->
+    <label>Valor em Reais:</label>
+    <input type="number" id="reais" step="0.01" placeholder="Digite o valor em reais" required>
+    <span class="required-text">*</span>
+    <br>
+    <!-- Campo de entrada para o valor em dólares -->
+    <label>Valor em Dólares:</label>
+    <input type="number" id="dolar" step="0.01" placeholder="Digite o valor em dólares" required>
+    <span class="required-text">*</span>
+    <br>
+
+    <!-- Botão para acionar a conversão -->
+    <button onclick="converterMoeda()">Converter</button>
+
+    <!-- Parágrafo onde será exibido o resultado da conversão -->
+    <p id="resultado"></p>
+
+    <script src="js/script.js"></script>
+</body>
+
+</html>
