@@ -9,27 +9,27 @@ Atualmente cursando o **3º e último semestre**. Este repositório centraliza m
 Abaixo estão os módulos que compõem minha formação. 
 
 ### ✅ 1º Semestre (Fundamentos)
-### - **Lógica de Programação:**
-### **Banco de Dados I:**
-### **Inglês Aplicado**
-### **Infraestrura**
-### **Sistemas da Informação**
+- **Lógica de Programação:**
+- **Banco de Dados I:**
+- **Inglês Aplicado**
+- **Infraestrura**
+- **Sistemas da Informação**
 
 
 ### ✅ 2º Semestre (Desenvolvimento & Dados)
-**Banco de Dados II:** 
-**Desenvolvimento Web I:**
-**Programação Orientada a Objetos:** 
-**Análise e Modelagem**
-**Recursos Humanos**
+- **Banco de Dados II:** 
+- **Desenvolvimento Web I:**
+- **Programação Orientada a Objetos:** 
+- **Análise e Modelagem**
+- **Recursos Humanos**
 
 ### 🚀 3º Semestre (Finalização & Especialização) - *Cursando atualmente*
-**Prototipagem UX/UI:** 
-**Desenvolvimento Web II:**
-**Computação em Nuvem:** 
-**Empreendedorismo**
-**Métodos Ágeis**
-**Qualidade e Teste de Sofware**
+- **Prototipagem UX/UI:** 
+- **Desenvolvimento Web II:**
+- **Computação em Nuvem:** 
+- **Empreendedorismo**
+- **Métodos Ágeis**
+- **Qualidade e Teste de Sofware**
 
 ---
 
