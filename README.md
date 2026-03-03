@@ -9,7 +9,7 @@ Atualmente cursando o **3º e último semestre**. Este repositório centraliza m
 Abaixo estão os módulos que compõem minha formação. 
 
 ### ✅ 1º Semestre (Fundamentos)
-### **Lógica de Programação:**
+### - **Lógica de Programação:**
 ### **Banco de Dados I:**
 ### **Inglês Aplicado**
 ### **Infraestrura**
